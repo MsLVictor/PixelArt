@@ -24,3 +24,10 @@
     cursor: pointer;
 }
 
+.btn2 {
+    position: fixed;
+    top: 630px;
+    left: 47%;
+    cursor: pointer;
+}
+
