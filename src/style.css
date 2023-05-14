@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+}
+
+.color {
+    display: flex;
+    width: 20%;
+    border: 1px solid black;
+    color: white;
+    align-items: center;
+    justify-content: center;    
+}
+
+.btn {
+    position: fixed;
+    top: 600px;
+    left: 47%;
+    cursor: pointer;
+}
+
